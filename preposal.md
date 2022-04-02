@@ -17,4 +17,4 @@ N/A
 
 ## Do you have any questions of your own?
 
-TODO
+Not at the moment, but will ask when question pops up. 
